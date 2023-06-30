@@ -1,5 +1,4 @@
-# LetsGrowMore_Project_![image](https://github.com/Solankys123/LetsGrowMore_Project_sandeep/assets/92093959/6f2962ba-3c8f-4f2b-8487-26e0d5178214)
-sandeep
+# LetsGrowMore_Project_sandeep
 This is my projects of LetsGrowMore Intern
 
 ![image](https://github.com/Solankys123/LetsGrowMore_Project_sandeep/assets/92093959/3fda01fe-94cd-450c-8856-81f68d138ddd)
